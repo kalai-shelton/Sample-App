@@ -28,6 +28,9 @@ sketch
 # Local History for Visual Studio Code
 .history/
 
+# NextJS files
+.next/
+
 # Built Visual Studio Code Extensions
 *.vsix
 
